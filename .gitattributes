@@ -11,3 +11,20 @@ LICENSE binary
 *.vcxproj   text eol=crlf
 *.props     text eol=crlf
 *.filters   text eol=crlf
+
+  Hesap : "rNEygqkMv4Vnj8M2eWnYT1TDnV1Sc1X5SN" ,
+  Tutarı: "319188116",
+  Hedef: "rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh"  ,
+  DestinationTag : 100922658 ,
+  Ücret : "80" ,
+  Bayraklar : 2147483648 ,
+  Sıra : 5609 ,
+  SigningPubKey : "02FC56A7601914BC0462E28994EF7F059D5A23AA17705BAD668E3E4EE00450FFB9" ,
+  TransactionType : "Ödeme" ,
+  TxnSignature : "304402205591967E3223AD4A68F8D3D837737E02F2F816610D0E753AE1B963626B50DCED02205409A95AC429411A3DF82FF19EC17EC136B6792142284017F0ABF160832A21DA" ,
+  tarih : 576491751 ,
+  karma : "36E50D92626E58917BEC625F769AD9FCE51A69E889305F8760ECC741CCEDB6EB" ,
+  inLedger : 37809012 ,
+  ledger_index : 37809012 ,
+  meta : { / * EtkilenenNodes, TransactionIndex, ... * /  } ,
+  doğrulanmış : true
